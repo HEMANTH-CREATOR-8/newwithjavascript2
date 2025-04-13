@@ -1,0 +1,20 @@
+.mynew{
+    box-sizing: border-box;
+    margin: 10%;
+    background-color: blue;
+}
+.mycan{
+    background-color: blue;
+}
+.mysuccess{
+    color: white;
+}
+.mylogin{
+    background-color: aqua;
+    margin: 10%;
+    padding: 1%;
+}
+.buttoncss{
+    background-color: white
+    color(white);
+}
